@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resourcess">
+        <file alias="O.png">O.png</file>
+        <file alias="X.png">X.png</file>
+        <file alias="move.wav">move.wav</file>
+        <file alias="win.wav">win.wav</file>
+    </qresource>
+</RCC>
